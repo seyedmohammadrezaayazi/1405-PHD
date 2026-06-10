@@ -962,8 +962,8 @@
 		<X>880</X>
 		<Y>210</Y>
 		<Label>
-			<X>-15</X>
-			<Y>-15</Y>
+			<X>-10</X>
+			<Y>60</Y>
 		</Label>
 		<PublicFlag>false</PublicFlag>
 		<PresentationFlag>true</PresentationFlag>
