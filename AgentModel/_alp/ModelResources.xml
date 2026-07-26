@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelResources>
+	<Resource>
+		<Id>1785077327678</Id>
+		<Path>3d/person.dae</Path>
+		<ReferencedFromUserCode>false</ReferencedFromUserCode>
+		<Location>FILE_SYSTEM</Location>
+	</Resource>
+	<Resource>
+		<Id>1785077404392</Id>
+		<Path>3d/store.dae</Path>
+		<ReferencedFromUserCode>false</ReferencedFromUserCode>
+		<Location>FILE_SYSTEM</Location>
+	</Resource>
+	<Resource>
+		<Id>1785078022979</Id>
+		<Path>3d/building_2.dae</Path>
+		<ReferencedFromUserCode>false</ReferencedFromUserCode>
+		<Location>FILE_SYSTEM</Location>
+	</Resource>
+</ModelResources>
