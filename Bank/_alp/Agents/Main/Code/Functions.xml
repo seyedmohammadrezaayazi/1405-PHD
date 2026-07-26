@@ -5,6 +5,7 @@
 		<ReturnType>Enter</ReturnType>
 		<Id>1785082338155</Id>
 		<Name><![CDATA[way]]></Name>
+		<ExcludeFromBuild>true</ExcludeFromBuild>
 		<X>160</X>
 		<Y>370</Y>
 		<Label>
