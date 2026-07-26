@@ -93,6 +93,7 @@
 	</ScaleRuler>
 	<CurrentLevel>1785078825005</CurrentLevel>
 	<ConnectionsId>1785078825000</ConnectionsId>
+	<Functions xmlns:al="http://anylogic.com"/>
 	<AgentLinks>
 		<AgentLink>
 			<Id>1785078825000</Id>
