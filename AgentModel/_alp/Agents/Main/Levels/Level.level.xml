@@ -21,7 +21,8 @@
 			<ActionCode>for(int x =0 ;x&lt;10;x++){
 	Human h= add_humans();
 	h.jumpTo(Start);
-	if(h.ISbank){
+	//if(h.ISbank){
+	if(h.whoWantToBank()){
 		h.moveTo(bank);
 	}else{
 		h.moveTo(store);

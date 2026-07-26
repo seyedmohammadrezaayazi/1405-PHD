@@ -2,9 +2,9 @@
 <Functions>
 	<Function AccessType="default" StaticFunction="false">
 		<ReturnModificator>RETURNS_VALUE</ReturnModificator>
-		<ReturnType>double</ReturnType>
+		<ReturnType>boolean</ReturnType>
 		<Id>1785078371124</Id>
-		<Name><![CDATA[howWantToBank]]></Name>
+		<Name><![CDATA[whoWantToBank]]></Name>
 		<X>450</X>
 		<Y>100</Y>
 		<Label>
